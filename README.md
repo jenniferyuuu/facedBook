@@ -1,7 +1,5 @@
 # facedBook
 
-![Build Status](https://github.com/software-students-spring2025/3-python-package-everything/actions/workflows/event-logger.yml/badge.svg)
-
 ## Project Description
 
 facedBook is a fun Python package for transforming text with cute and eerie keyboard faces, generating scary stories, and displaying emotions with expressive faces.
